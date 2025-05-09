@@ -36,7 +36,7 @@ A **Node.js** project that enables users to book activities by integrating with 
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/AkshAI-2030/activity-booking-app.git
+git clone https://github.com/AkshAI-2030/Activity-Booking-App.git
 cd activity-booking-app
 ```
 
