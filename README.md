@@ -2,6 +2,8 @@
 
 A **Node.js** project that enables users to book activities by integrating with a **MongoDB** database. It allows users to register, log in, create activities, and book them.
 
+[![Postman Collection](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/29351727/2sB2j97URD#5730c1aa-f6e4-4423-b230-8a102bff6883)
+
 ## 📂 Project Structure
 
 ```
@@ -60,7 +62,11 @@ Start the server using the following command:
 
 ```bash
 node server.js
+```
+
 or
+
+```bash
 npm start
 ```
 
@@ -277,13 +283,12 @@ The API will run on `http://localhost:3000/`.
 ]
 ```
 
-## 🧪 Running Tests
+## 📱 API Documentation
 
-This project includes unit and integration tests using Jest.
+For detailed API documentation with request and response examples, check out our Postman Collection:
 
-**Run All Tests**
-```bash
-npm run test
+[![View in Postman](https://img.shields.io/badge/View%20in%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/29351727/2sB2j97URD#5730c1aa-f6e4-4423-b230-8a102bff6883)
+
 ```
 
 ### ✅ Test Coverage
